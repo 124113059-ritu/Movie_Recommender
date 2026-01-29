@@ -29,12 +29,15 @@ It uses **content-based filtering**, where recommendations are generated based o
 - **Jupyter Notebook**
 
 
-
 ## 📁 Project Structure
+
+```
 Movie_Recommender/
 │
-├── Movie_recommender.ipynb # Main notebook with implementation
-├── README.md # Project documentation
+├── Movie_recommender.ipynb   # Main notebook with implementation
+├── README.md                 # Project documentation
+```
+
 
 
 
